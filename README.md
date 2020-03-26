@@ -1,0 +1,3 @@
+# Javascript Challenge - JavaScript and DOM Manipulation
+
+This repo contains two folders `UFO-level-1` and `UFO-level-2`.  This folders contain an HTML file, `index.html` and javascript files, `app.js` and `data.js`. The javascript file `data.js` contains data which is filtered and displayed in the HTML file using `app.js`.  In `UFO-level-1` filtering is done only by date. In `UFO-level-2` filtering is done using several fields.  When all fields are blank, no filtering is done and the entire data table is displayed.
